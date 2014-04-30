@@ -1,0 +1,27 @@
+@import url("css_default.css");
+.job_main{
+	width:778;
+	font-family:"宋体";
+	font-size:10.7pt;
+	text-align:center;
+}
+.look_up{
+	width:778;
+	height:50;
+	background-color:#CE0421;
+	font-family:"宋体";
+	font-size:9pt;
+	text-align:center;
+}
+.scour_function{
+	width:778;
+	font-family:"宋体";
+	font-size:9pt;
+	text-align:center;	
+}
+.function_listing{
+	width:778;
+	font-family:"宋体";
+	font-size:10.7pt;
+	text-align:center;	
+}

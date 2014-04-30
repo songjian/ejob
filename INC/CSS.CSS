@@ -1,0 +1,33 @@
+/*表格效果*/
+.table1{
+	width:778;
+	line-height: 20px;
+}
+.table1_1{
+width:778;
+border:1;
+border-color:#CE0421;
+line-height:20px;
+}
+.table1_2{
+width:100%;
+}
+.table1_3{
+width:100%;
+border:1;
+border-color:#ce0421;
+}
+.table2{
+background-color:#CE0421;
+font-size:10.7pt;
+color:#FFFFFF;
+}
+.table3{
+font-size:10.7pt;
+color:#000000;
+}
+.table4{
+font-size:10.7pt;
+background-color:#d5d5d5;
+}
+/*表格效果 end*/
